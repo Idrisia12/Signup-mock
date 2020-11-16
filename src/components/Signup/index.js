@@ -2,7 +2,7 @@ import React from 'react';
 import { useForm } from 'react-hook-form';
 
 import './style.css';
-import ErrorIcon from '../../assets/icon-error.svg'
+import ErrorIcon from '../../img/icon-error.svg'
 
 export default function Signup() {
   const { register, errors, handleSubmit } = useForm();

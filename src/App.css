@@ -9,7 +9,7 @@
 
 body {
   background: hsl(0, 100%, 74%);
-  background-image: url('assets/bg-intro-desktop.png');
+  background-image: url('img/bg-intro-desktop.png');
   font: 400 16px Poppins, sans-serif;
   -webkit-font-smoothing: antialiased;
 }
