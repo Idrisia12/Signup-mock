@@ -190,7 +190,7 @@ export const ErrorStyle = styled.div`
   position: relative;
   height: 20px;
   right: 3rem;
-  top: -2.1rem;
+  top: -3rem;
 
   @media (max-width: 980px) {
     right: 1.8rem;
